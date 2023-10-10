@@ -34,9 +34,23 @@ Leave Database and Tags as default
 <img width="902" alt="image" src="https://github.com/binhtq80/aws-labs/assets/31812579/41f7a028-8e5b-4efd-af7e-ceb3429c38f2">
 
 <img width="892" alt="image" src="https://github.com/binhtq80/aws-labs/assets/31812579/d055f055-654b-4260-9182-631d325a568c">
+
 Step4: Configure instance traffic and scaling
 Select EC2 security groups and leave other section as default
 <img width="910" alt="image" src="https://github.com/binhtq80/aws-labs/assets/31812579/15f797b8-fa33-4b82-9551-9bab99666799">
+
+Step5: Configure updates, monitoring, and logging
+Select Enhanced Health Reporting and leave the rest as default
+<img width="894" alt="image" src="https://github.com/binhtq80/aws-labs/assets/31812579/8ffeb51f-1f07-4425-8b35-88eb20c2377d">
+Add SERVER_PORT environment variable
+
+<img width="901" alt="image" src="https://github.com/binhtq80/aws-labs/assets/31812579/6d66fbc6-ffd8-4655-9bb0-1e267d6006fb">
+
+Step6: Review and Submit
+<img width="880" alt="image" src="https://github.com/binhtq80/aws-labs/assets/31812579/0f090936-c1a0-4540-943a-13c1c0d8aaea">
+
+
+
 
 
 
