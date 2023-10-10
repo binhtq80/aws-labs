@@ -20,7 +20,8 @@ In this lab scenario, we will do following tasks:
 <img width="890" alt="image" src="https://github.com/binhtq80/aws-labs/assets/31812579/54ed95e7-1ed4-476a-b037-64a1c5870e62">
 
 Upload .jar file from your local device [Jar file] (https://github.com/binhtq80/aws-labs/blob/main/gs-producing-web-service-0.1.0.jar)
-<img width="886" alt="image" src="https://github.com/binhtq80/aws-labs/assets/31812579/8bb624ac-439a-4b7f-83d2-90d647b662ee">
+<img width="613" alt="image" src="https://github.com/binhtq80/aws-labs/assets/31812579/cee8119d-4801-4ede-a613-87ef10fc9b4b">
+
 
 <img width="886" alt="image" src="https://github.com/binhtq80/aws-labs/assets/31812579/b7ebc4c9-799a-42f8-830c-60c151016efa">
 
