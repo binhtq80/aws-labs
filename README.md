@@ -12,5 +12,8 @@ In this lab scenario, we will do following tasks:
 
 # 1. Deploy a simple java application that expose SOAP XML APIs by using AWS Elastic Beantalk
 1. Open AWS [Elastic Beantalk](https://ap-southeast-1.console.aws.amazon.com/elasticbeanstalk/home?region=ap-southeast-1#/welcome)
+<img width="950" alt="image" src="https://github.com/binhtq80/aws-labs/assets/31812579/36d61276-496b-4f98-8b69-3712aa02a516">
+
 2. 
 3. 
+4. 
