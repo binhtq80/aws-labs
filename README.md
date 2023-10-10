@@ -14,6 +14,10 @@ In this lab scenario, we will do following tasks:
 1. Open AWS [Elastic Beantalk](https://ap-southeast-1.console.aws.amazon.com/elasticbeanstalk/home?region=ap-southeast-1#/welcome)
 <img width="950" alt="image" src="https://github.com/binhtq80/aws-labs/assets/31812579/36d61276-496b-4f98-8b69-3712aa02a516">
 
-2. 
+2. Create AWS Elastic Beantalk (by clicking on Create Application)
+<img width="564" alt="image" src="https://github.com/binhtq80/aws-labs/assets/31812579/5953528e-2735-40fe-91af-03d5d158b5f2">
+
+
 3. 
 4. 
+5. 
