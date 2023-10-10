@@ -81,6 +81,10 @@ Upload .zip file from your local device
 
 [Sample nodejs lambda code to access xml-api](https://github.com/binhtq80/aws-labs/blob/main/nodejs-aws-lambda-api-sample.zip)
 
+Add SERVICE_WSDL environment variable
+<img width="940" alt="image" src="https://github.com/binhtq80/aws-labs/assets/31812579/021bba7e-5f1b-4cc7-b846-205eccaf4a2a">
+
+
 Test if Lambda function work
 <img width="889" alt="image" src="https://github.com/binhtq80/aws-labs/assets/31812579/5c27afe1-34a5-4dbe-895c-1f71e5ea2f30">
 <img width="911" alt="image" src="https://github.com/binhtq80/aws-labs/assets/31812579/ec2d34e1-9393-449d-a582-79113104c92f">
