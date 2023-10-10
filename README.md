@@ -78,6 +78,8 @@ Click on the function just created and select **Upload from**
 Upload .zip file from your local device
 <img width="944" alt="image" src="https://github.com/binhtq80/aws-labs/assets/31812579/ff7fe5a9-11cf-4faf-9cd9-3866aa61b3fb">
 
+[Sample nodejs lambda code to access xml-api](https://github.com/binhtq80/aws-labs/blob/main/nodejs-aws-lambda-api-sample.zip)
+
 
 
 
