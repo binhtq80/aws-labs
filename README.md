@@ -117,6 +117,11 @@ Step4: Configure Lambda Function as integration type
 Step4: Configure mapping template that basically mapping REST request parameters to right json format to send to Lambda function
 <img width="943" alt="image" src="https://github.com/binhtq80/aws-labs/assets/31812579/479e070b-b208-4cc9-8cb6-e278d14675fe">
 
+Step5: Test the APIs to check if it work
+<img width="942" alt="image" src="https://github.com/binhtq80/aws-labs/assets/31812579/cae60b50-a653-4a67-9002-a5a35f815820">
+
+
+
 
 
 
