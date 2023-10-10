@@ -115,10 +115,27 @@ Step4: Configure Lambda Function as integration type
 <img width="937" alt="image" src="https://github.com/binhtq80/aws-labs/assets/31812579/b3ab30e1-57b3-415a-a655-137444c633dd">
 
 Step4: Configure mapping template that basically mapping REST request parameters to right json format to send to Lambda function
-<img width="943" alt="image" src="https://github.com/binhtq80/aws-labs/assets/31812579/479e070b-b208-4cc9-8cb6-e278d14675fe">
+<img width="943" alt="image" src="https://github.com/binhtq80/aws-labs/assets/3181Dep2579/479e070b-b208-4cc9-8cb6-e278d14675fe">
 
 Step5: Test the APIs to check if it work
 <img width="942" alt="image" src="https://github.com/binhtq80/aws-labs/assets/31812579/cae60b50-a653-4a67-9002-a5a35f815820">
+
+Step6: Deploy API
+<img width="940" alt="image" src="https://github.com/binhtq80/aws-labs/assets/31812579/0dc31ca0-c277-49ee-ac07-b423552fe3db">
+<img width="938" alt="image" src="https://github.com/binhtq80/aws-labs/assets/31812579/58eb59ef-62e1-41b9-9dc8-d121f2e74418">
+
+# 4. Lastly, Test if we can send request to just deployed REST APIs enpoint and get back resuts
+Click on Invoke URL to naviate to service enpoint
+<img width="937" alt="image" src="https://github.com/binhtq80/aws-labs/assets/31812579/78018f67-2180-4013-8dd4-87c750415096">
+
+Enter query parameter and hit Enter to see results
+<img width="879" alt="image" src="https://github.com/binhtq80/aws-labs/assets/31812579/7857e68b-3ecb-46d5-8767-0b0a459666ad">
+
+
+
+
+
+
 
 
 
