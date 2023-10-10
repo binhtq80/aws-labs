@@ -50,6 +50,16 @@ Add SERVER_PORT environment variable
 Step6: Review and Submit
 <img width="880" alt="image" src="https://github.com/binhtq80/aws-labs/assets/31812579/0f090936-c1a0-4540-943a-13c1c0d8aaea">
 
+Step7: Wait for Elastic BeanTalk environment deployment successs
+
+<img width="881" alt="image" src="https://github.com/binhtq80/aws-labs/assets/31812579/100e4410-0f4c-48ab-91a2-f7e2a6575ede">
+
+Step8: Test if we can access the service description language (which is use to build client)
+
+<img width="948" alt="image" src="https://github.com/binhtq80/aws-labs/assets/31812579/7091a00c-9d9f-4b48-a684-2e51432c525c">
+
+
+
 
 
 
