@@ -15,7 +15,17 @@ In this lab scenario, we will do following tasks:
 <img width="950" alt="image" src="https://github.com/binhtq80/aws-labs/assets/31812579/36d61276-496b-4f98-8b69-3712aa02a516">
 
 2. Create AWS Elastic Beantalk (by clicking on Create Application)
-<img width="564" alt="image" src="https://github.com/binhtq80/aws-labs/assets/31812579/5953528e-2735-40fe-91af-03d5d158b5f2">
+<img width="879" alt="image" src="https://github.com/binhtq80/aws-labs/assets/31812579/e4ab25eb-88e8-4412-b802-f681e397a579">
+<img width="876" alt="image" src="https://github.com/binhtq80/aws-labs/assets/31812579/8d4e35d0-d97b-4e69-8bf0-b9fc263faf16">
+<img width="890" alt="image" src="https://github.com/binhtq80/aws-labs/assets/31812579/54ed95e7-1ed4-476a-b037-64a1c5870e62">
+<img width="886" alt="image" src="https://github.com/binhtq80/aws-labs/assets/31812579/8bb624ac-439a-4b7f-83d2-90d647b662ee">
+<img width="886" alt="image" src="https://github.com/binhtq80/aws-labs/assets/31812579/b7ebc4c9-799a-42f8-830c-60c151016efa">
+
+
+
+
+
+
 
 
 3. 
