@@ -6,5 +6,11 @@ Legacy systems often communicate using XML, while modern APIs tend to rely on JS
 In this lab scenario, we will do following tasks:
 1. Deploy a simple java application that expose SOAP APIs by using AWS Elastic Beantalk
 2. Deploy a simple Nodejs AWS Lambda function that  transforms JSON request into a SOAP message and interacts with the SOAP service. A reverse path is followed during the response flow.
-3. Deploy AWS API Gateway
+3. Deploy AWS API Gateway which will forward request to AWS Lambda
+4. Test REST APIs
 <img width="581" alt="image" src="https://github.com/binhtq80/aws-labs/assets/31812579/08da1bba-bebd-48c4-8bce-69509bd978d8">
+
+# 1. Deploy a simple java application that expose SOAP XML APIs by using AWS Elastic Beantalk
+1. Open AWS [Elastic Beantalk](https://ap-southeast-1.console.aws.amazon.com/elasticbeanstalk/home?region=ap-southeast-1#/welcome)
+2. 
+3. 
