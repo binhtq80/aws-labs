@@ -42,6 +42,7 @@ Select EC2 security groups and leave other section as default
 Step5: Configure updates, monitoring, and logging
 Select Enhanced Health Reporting and leave the rest as default
 <img width="894" alt="image" src="https://github.com/binhtq80/aws-labs/assets/31812579/8ffeb51f-1f07-4425-8b35-88eb20c2377d">
+
 Add SERVER_PORT environment variable
 
 <img width="901" alt="image" src="https://github.com/binhtq80/aws-labs/assets/31812579/6d66fbc6-ffd8-4655-9bb0-1e267d6006fb">
