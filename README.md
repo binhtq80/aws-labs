@@ -108,6 +108,20 @@ Add Resource
 then, add GET method
 <img width="936" alt="image" src="https://github.com/binhtq80/aws-labs/assets/31812579/c948e1ed-e4dc-4d08-9aa8-66c1b36496ad">
 
+Step3: Add Query String **countryName** parameter (Note: this is the parameter which will be pass to xmp-api request)
+<img width="946" alt="image" src="https://github.com/binhtq80/aws-labs/assets/31812579/bbe4e045-94ae-47f2-b18c-534387094f7b">
+
+Step4: Configure Lambda Function as integration type
+<img width="937" alt="image" src="https://github.com/binhtq80/aws-labs/assets/31812579/b3ab30e1-57b3-415a-a655-137444c633dd">
+
+Step4: Configure mapping template that basically mapping REST request parameters to right json format to send to Lambda function
+<img width="943" alt="image" src="https://github.com/binhtq80/aws-labs/assets/31812579/479e070b-b208-4cc9-8cb6-e278d14675fe">
+
+
+
+
+
+
 
 
 
