@@ -1,4 +1,4 @@
-# Introduction
+<img width="890" alt="image" src="https://github.com/binhtq80/aws-labs/assets/31812579/7835cf80-bdab-4a23-b27d-604ef62e3d76"># Introduction
 In the ever-evolving landscape of API development, dealing with legacy systems and formats is a common challenge. This blog post aims to assist you in leveraging AWS API Gateway and AWS Lambda to address a specific scenario: transforming XML data to JSON and vice versa. We'll delve into the techniques supported by AWS API Gateway and AWS Lambda that allow you to bridge the gap between these formats seamlessly.
 # Understanding the Challenge:
 Legacy systems often communicate using XML, while modern APIs tend to rely on JSON due to its simplicity and widespread support. In scenarios where your API needs to interact with both formats, a transformation mechanism becomes crucial. AWS API Gateway and Lambda can be the solution to ensure a smooth transition between XML and JSON. This scenario can occur even with your own system. Imagine that you have a legacy application that uses XML standards for integration. To modernize your application, you can explore the option to migrate your backend to JSON standards first and explore the power of AWS API Gateway and Lambda to transform your data between frontend and backend. This will give you the ability to modernize your app in chunks.
@@ -58,20 +58,43 @@ Step8: Test if we can access the service description language (which is use to b
 
 <img width="948" alt="image" src="https://github.com/binhtq80/aws-labs/assets/31812579/7091a00c-9d9f-4b48-a684-2e51432c525c">
 
+# 2. Next, we will develop and deploy a simple Nodejs AWS Lambda function that  transforms JSON request into a SOAP message and interacts with the SOAP service. A reverse path is followed during the response flow.
 
+1. Open [AWS Lamda] (https://ap-southeast-1.console.aws.amazon.com/lambda/home?region=ap-southeast-1#/functions)
+2. Create AWS Lamda function (click on Create Function)
+<img width="892" alt="image" src="https://github.com/binhtq80/aws-labs/assets/31812579/bdc87e4b-8bd0-4295-be9b-af914c3ed6d6">
+<img width="891" alt="image" src="https://github.com/binhtq80/aws-labs/assets/31812579/62cc959f-6661-4f9e-bfe9-47c17067313c">
 
+Clink on Advanced Setings and configure VPC where we're hosting our SOAP web service so that our Lambda function cac access it as in the samme local network (VPC)
+<img width="917" alt="image" src="https://github.com/binhtq80/aws-labs/assets/31812579/648152e4-b4bc-461c-b66f-25a12589beed">
 
+Select security group and click create function
+<img width="891" alt="image" src="https://github.com/binhtq80/aws-labs/assets/31812579/19da2b92-4da4-4d4f-a7f8-d879fb473bc2">
 
+3. Upload Notejs code to AWS Lambda function
 
-
-
-
-
+4. 
 
 
 
 
 
 3. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 4. 
 5. 
+6. 
