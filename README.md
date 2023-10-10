@@ -81,7 +81,7 @@ Upload .zip file from your local device
 
 [Sample nodejs lambda code to access xml-api](https://github.com/binhtq80/aws-labs/blob/main/nodejs-aws-lambda-api-sample.zip)
 
-Add SERVICE_WSDL environment variable
+Add SERVICE_WSDL environment variable that point to Elastic Beantalk deployment environment url
 <img width="940" alt="image" src="https://github.com/binhtq80/aws-labs/assets/31812579/021bba7e-5f1b-4cc7-b846-205eccaf4a2a">
 
 
