@@ -101,6 +101,17 @@ Enter API name
 Click Create API
 <img width="944" alt="image" src="https://github.com/binhtq80/aws-labs/assets/31812579/d79899b7-0d2a-426d-86e1-be27c64d3a08">
 
+Step3: Add Resouce and Method
+Add Resource
+<img width="947" alt="image" src="https://github.com/binhtq80/aws-labs/assets/31812579/e3ec28d6-caa2-4b21-990f-3c400434a977">
+
+then, add GET method
+<img width="936" alt="image" src="https://github.com/binhtq80/aws-labs/assets/31812579/c948e1ed-e4dc-4d08-9aa8-66c1b36496ad">
+
+
+
+
+
 
 
 
