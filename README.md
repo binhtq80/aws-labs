@@ -72,8 +72,16 @@ Select security group and click create function
 <img width="891" alt="image" src="https://github.com/binhtq80/aws-labs/assets/31812579/19da2b92-4da4-4d4f-a7f8-d879fb473bc2">
 
 3. Upload Notejs code to AWS Lambda function
+Click on the function just created and select **Upload from**
+<img width="899" alt="image" src="https://github.com/binhtq80/aws-labs/assets/31812579/315da0b6-26b9-4fa3-a77b-40a9b6234c1d">
 
-4. 
+Upload .zip file from your local device
+<img width="944" alt="image" src="https://github.com/binhtq80/aws-labs/assets/31812579/ff7fe5a9-11cf-4faf-9cd9-3866aa61b3fb">
+
+
+
+
+5. 
 
 
 
