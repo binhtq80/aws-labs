@@ -139,6 +139,17 @@ Enter query parameter and hit Enter to see results
 4. Test REST APIs
 
 # 6. Clean up resources
+1. Delete AWS API Gateway
+
+<img width="946" alt="image" src="https://github.com/binhtq80/aws-labs/assets/31812579/c8b2d5e4-c3ad-4498-bd0b-cf68e1433a84">
+
+3. Delete AWS Lambda Function
+
+<img width="932" alt="image" src="https://github.com/binhtq80/aws-labs/assets/31812579/9f4d18ec-4a3c-4fca-8eed-748807dc139a">
+
+5. Terminate AWS BeanTalk environment
+
+<img width="946" alt="image" src="https://github.com/binhtq80/aws-labs/assets/31812579/11510563-0576-43b7-8d34-a6a8045a6b85">
 
 
 
@@ -184,6 +195,8 @@ Enter query parameter and hit Enter to see results
 
 
 
-4. 
-5. 
-6. 
+
+
+7. 
+8. 
+9. 
