@@ -1,4 +1,4 @@
-<img width="890" alt="image" src="https://github.com/binhtq80/aws-labs/assets/31812579/7835cf80-bdab-4a23-b27d-604ef62e3d76"># Introduction
+<img width="930" alt="image" src="https://github.com/binhtq80/aws-labs/assets/31812579/1f29f66a-053f-471c-b190-e5a2f48329cd"><img width="890" alt="image" src="https://github.com/binhtq80/aws-labs/assets/31812579/7835cf80-bdab-4a23-b27d-604ef62e3d76"># Introduction
 In the ever-evolving landscape of API development, dealing with legacy systems and formats is a common challenge. This blog post aims to assist you in leveraging AWS API Gateway and AWS Lambda to address a specific scenario: transforming XML data to JSON and vice versa. We'll delve into the techniques supported by AWS API Gateway and AWS Lambda that allow you to bridge the gap between these formats seamlessly.
 # Understanding the Challenge:
 Legacy systems often communicate using XML, while modern APIs tend to rely on JSON due to its simplicity and widespread support. In scenarios where your API needs to interact with both formats, a transformation mechanism becomes crucial. AWS API Gateway and Lambda can be the solution to ensure a smooth transition between XML and JSON. This scenario can occur even with your own system. Imagine that you have a legacy application that uses XML standards for integration. To modernize your application, you can explore the option to migrate your backend to JSON standards first and explore the power of AWS API Gateway and Lambda to transform your data between frontend and backend. This will give you the ability to modernize your app in chunks.
@@ -87,17 +87,24 @@ Test if Lambda function work
 Click **Test** and check if success
 <img width="891" alt="image" src="https://github.com/binhtq80/aws-labs/assets/31812579/31e3d145-c2af-4ea6-b4bc-1c2090b15f81">
 
+# 3. Next, We will deploy AWS API Gateway which will recieve REST requests and forward to AWS Lambda
+Step1: Open [AWS API Gateway](https://ap-southeast-2.console.aws.amazon.com/apigateway/main/apis?region=ap-southeast-2)
+Step2: Create API
+<img width="943" alt="image" src="https://github.com/binhtq80/aws-labs/assets/31812579/bc59eea6-ef5c-48cf-b9fa-9afc161a215e">
+
+Navigate to REST API and click Build
+<img width="877" alt="image" src="https://github.com/binhtq80/aws-labs/assets/31812579/6909f496-7e91-4175-910f-cd4c12d39801">
 
 
 
 
-5. 
 
 
 
 
 
-3. 
+
+
 
 
 
