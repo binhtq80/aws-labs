@@ -95,6 +95,12 @@ Step2: Create API
 Navigate to REST API and click Build
 <img width="877" alt="image" src="https://github.com/binhtq80/aws-labs/assets/31812579/6909f496-7e91-4175-910f-cd4c12d39801">
 
+Select REST protocal
+Select New API
+Enter API name
+Click Create API
+<img width="944" alt="image" src="https://github.com/binhtq80/aws-labs/assets/31812579/d79899b7-0d2a-426d-86e1-be27c64d3a08">
+
 
 
 
