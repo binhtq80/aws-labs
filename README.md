@@ -11,6 +11,11 @@ In this lab scenario, we will do following tasks:
 
 <img width="423" alt="image" src="https://github.com/binhtq80/aws-labs/assets/31812579/9949f6c8-17b1-4e79-bc97-c21aa0f41356">
 
+# Notes: 
+the source code for 1) and 2) can be found at:
+[Java Application] (https://github.com/binhtq80/sample-java-xml)
+[Nodejs Lambda function] (https://github.com/binhtq80/sample-nodejs-aws-lambda)
+
 
 # 1. Deploy a simple java application that expose SOAP XML APIs by using AWS Elastic Beantalk
 
