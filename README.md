@@ -14,6 +14,7 @@ In this lab scenario, we will do following tasks:
 # Notes: 
 the source code for 1) and 2) can be found at:
 [Java Application] (https://github.com/binhtq80/sample-java-xml)
+
 [Nodejs Lambda function] (https://github.com/binhtq80/sample-nodejs-aws-lambda)
 
 
