@@ -9,7 +9,8 @@ In this lab scenario, we will do following tasks:
 3. Deploy AWS API Gateway which will forward request to AWS Lambda
 4. Test REST APIs
 
-<img width="581" alt="image" src="https://github.com/binhtq80/aws-labs/assets/31812579/08da1bba-bebd-48c4-8bce-69509bd978d8">
+<img width="423" alt="image" src="https://github.com/binhtq80/aws-labs/assets/31812579/9949f6c8-17b1-4e79-bc97-c21aa0f41356">
+
 
 # 1. Deploy a simple java application that expose SOAP XML APIs by using AWS Elastic Beantalk
 
